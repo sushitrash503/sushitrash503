@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/564x/f3/a7/ec/f3a7ecc2d045ed2a453c7fcb882d9872.jpg"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Sushitrash503/Sushitrash503/output/snake.svg" alt="Snake animation" />
+
+###
