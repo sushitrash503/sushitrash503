@@ -23,15 +23,12 @@
 
 #### **Petstagram**
 Un clon de Instagram pero de animales.
-![Petstagram](https://your-image-url.com/petstagram-preview.png)
 
 #### **A Random Page**
 Una página en la cual comparto ideas, códigos y otras cosas que agregaré en un futuro.
-![A Random Page](https://your-image-url.com/random-page-preview.png)
 
 #### **StardewApp**
 Proyecto en el cual tiene un TODOAPP y información de los personajes del juego.
-![StardewApp](https://your-image-url.com/stardewapp-preview.png)
 
 ### 🚀 Herramientas y Tecnologías
 
