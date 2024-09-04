@@ -1,26 +1,32 @@
-##                                                                        Hola soy Dcerritos👋
+# 👋 ¡Hola! Soy Daniel Cerritos
 
-<!--
-**sushitrash503/sushitrash503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador Front-End
 
-Here are some ideas to get you started:
+- 🎨 Me encanta crear interfaces de usuario atractivas y funcionales utilizando HTML, CSS, y JavaScript.
+- 🛠️ Tengo **3 años de experiencia** en desarrollo front-end.
+- 🌱 Actualmente estoy aprendiendo **Flutter** y **Kotlin** para expandir mis habilidades de desarrollo móvil.
+- 🚀 Estoy trabajando en varios proyectos personales, incluyendo:
+  - Una aplicación de música utilizando la API de YouTube Music.
+  - Un juego en Godot inspirado en *Paper Mario*.
+  - Una página web estilo Windows XP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/564x/f3/a7/ec/f3a7ecc2d045ed2a453c7fcb882d9872.jpg"  />
-</div>
+### 🌟 Proyectos Destacados
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sushitrash503&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sushitrash503&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+- **Petstagram**: Una página web dedicada a compartir fotos de animales, implementando historias de Instagram con datos desde un archivo JSON.
+- **Aplicación de Tareas en Flutter**: Una app sencilla y elegante para organizar tareas diarias.
+- **Stardew Valley Tips**: Proyecto que muestra consejos del juego Stardew Valley al actualizar la página.
 
-###
+### 💻 Herramientas y Tecnologías
+
+- **Lenguajes**: HTML, CSS, JavaScript, Kotlin, Java, Python.
+- **Frameworks y Librerías**: Tailwind CSS, Flutter, Godot.
+- **Otras Herramientas**: Git, GitHub, Streamlit, OpenWeatherMap API.
+
+### 📫 ¡Hablemos!
+
+- Si quieres colaborar en algún proyecto o simplemente charlar, no dudes en contactarme.
+- Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/daniel-cerritos/) o enviarme un correo a **tu-email@example.com**.
+
+---
+
+*Este README fue generado con mucho café y un poco de código.* ☕
