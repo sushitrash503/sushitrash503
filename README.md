@@ -12,14 +12,12 @@
 
 ### 💻 Habilidades
 
-| **Habilidad**           | **Progreso**                                      |
-| ----------------------- | ------------------------------------------------- |
-| **HTML**                | ![HTML](https://progress-bar.dev/90)              |
-| **CSS**                 | ![CSS](https://progress-bar.dev/85)               |
-| **JavaScript**          | ![JavaScript](https://progress-bar.dev/75)        |
-| **Java**                | ![Java](https://progress-bar.dev/50)              |
-| **Godot**               | ![Godot](https://progress-bar.dev/70)             |
-| **Tailwind CSS**        | ![Tailwind CSS](https://progress-bar.dev/80)       |
+- **HTML** ![★★★★★](https://img.shields.io/badge/★★★★★-90%25-yellow)
+- **CSS** ![★★★★☆](https://img.shields.io/badge/★★★★☆-80%25-yellow)
+- **JavaScript** ![★★★★☆](https://img.shields.io/badge/★★★★☆-75%25-yellow)
+- **Java** ![★★★☆☆](https://img.shields.io/badge/★★★☆☆-50%25-yellow)
+- **Godot** ![★★★☆☆](https://img.shields.io/badge/★★★☆☆-70%25-yellow)
+- **Tailwind CSS** ![★★★★☆](https://img.shields.io/badge/★★★★☆-80%25-yellow)
 
 ### 🌟 Proyectos Destacados
 
